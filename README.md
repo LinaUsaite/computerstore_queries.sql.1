@@ -20,7 +20,7 @@
 
 ## Failai
 
-👉 [Peržiūrėti SQL užduotis]()
+👉 [Peržiūrėti SQL užduotis](https://github.com/LinaUsaite/computerstore_queries.sql.1/blob/main/ComputerStore_questionsLinaUsaite.sql)
 
 ## Autorius
 Lina Ūsaitė
